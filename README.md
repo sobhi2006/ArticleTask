@@ -1,10 +1,10 @@
-#Knowledge Base Dashboard API
+# Knowledge Base Dashboard API
 
 A bilingual back-end API for managing articles, user profiles, statistics, and working hours in a centralized knowledge base system. Built to support a Next.js front-end with full authentication, personalization, and modular data access.
 
 ---
 
-##Features
+## Features
 
 - User Authentication & Profiles
   - Secure login and profile management
@@ -34,7 +34,7 @@ A bilingual back-end API for managing articles, user profiles, statistics, and w
 
 ---
 
-##🛠 Technologies Used
+## 🛠 Technologies Used
 
 ASP.NET Core
 Entity Framework Core
@@ -49,7 +49,7 @@ API Versioning
 
 ---
 
-##Installation
+## Installation
 
 bash
 git clone https://github.com/sobhi2006/ArticleTask.git
