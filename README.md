@@ -31,7 +31,6 @@ A bilingual back-end API for managing articles, user profiles, statistics, and w
 - Additional Features
   - Export reports (article summary, schedule overview)
   - Social media sharing
-  - Future support for offline mode and onboarding guidance
 
 ---
 
