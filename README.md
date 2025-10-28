@@ -48,7 +48,7 @@ A bilingual back-end API for managing articles, user profiles, statistics, and w
 - API Versioning
 
 ---
-## Additional Features of my efforts:
+## Additional Features of my efforts on task:
 
 - API Versioning
 - Global Exception Handler
