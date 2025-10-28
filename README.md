@@ -36,18 +36,31 @@ A bilingual back-end API for managing articles, user profiles, statistics, and w
 
 ## 🛠 Technologies Used
 
-ASP.NET Core
-Entity Framework Core
-SQL Server
-JWT Authentication
-FluentValidation
-Swagger / OpenAPI
-Global Exception Handling
-Response Compression (Gzip + Brotli)
-In-Memory Caching
-API Versioning
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- FluentValidation
+- Swagger / OpenAPI
+- Global Exception Handling
+- Response Compression (Gzip + Brotli)
+- In-Memory Caching
+- API Versioning
 
 ---
+## Additional Features of my efforts:
+
+- API Versioning
+- Global Exception Handler
+- Response Compression(Gzip, Brotli)
+- RateLimiter(Sliding Window)
+- Memory Caching
+- Fluent Validation
+- CORS
+- Problem Details(don't show extra information on production)
+- Swagger Configuration
+- Data Protection(Non-Deterministic)
+- Documentation All API(Endpoints)
 
 ## Installation
 
